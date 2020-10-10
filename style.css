@@ -1,5 +1,5 @@
 .pets-large-icon {
-	font-size: 20em;
+	font-size: 15em;
 	margin: 2vw;
 }
 
@@ -9,8 +9,4 @@
 
 .grow:hover { 
 	transform: scale(1.1);
-}
-
-body {
-	margin: 5vh;
 }
